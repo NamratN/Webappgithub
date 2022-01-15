@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Nikamapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7E23FC5EEE2C42CFA5DC5023676F1B5F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3D5ACEB81EEC45319E7F2F1348158918 }}
           package: .
